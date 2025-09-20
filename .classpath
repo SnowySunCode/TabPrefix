@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+    <!-- Путь к исходникам -->
     <classpathentry kind="src" path="src"/>
+    
+    <!-- JAR с Paper API -->
     <classpathentry kind="lib" path="lib/paper-1.16.5-794.jar"/>
-    <classpathentry kind="output" path="out"/>
+
+    <!-- Стандартная библиотека JDK -->
+    <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+    
+    <!-- Выходной каталог -->
+    <classpathentry kind="output" path="bin"/>
 </classpath>
