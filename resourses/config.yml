@@ -1,0 +1,7 @@
+groups:
+  Admin: "&c[Admin] "
+  Creeper: "&2[Creeper] "
+  TechAdmin: "&b[TechAdmin] "
+  Rookie: "&e[Rookie] "
+  Giant: "&6[Giant] "
+  default: "&7[Игрок] "

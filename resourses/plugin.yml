@@ -1,0 +1,6 @@
+name: TabPrefix
+main: me.snowsun.tabprefix.TabPrefix
+version: 1.0
+api-version: 1.16
+author: SnowySun
+description: Отображение привилегий игроков в табе
