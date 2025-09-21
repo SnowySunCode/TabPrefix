@@ -1,9 +1,16 @@
 {
+    "java.home": "/Users/marina/.sdkman/candidates/java/17.0.8-zulu",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "/Users/marina/.sdkman/candidates/java/17.0.8-zulu"
+        }
+    ],
     "java.project.referencedLibraries": [
-        "lib/**/*.jar"
+        "/Users/marina/TabPrefix/lib/paper-1.16.5-794.jar"
     ],
-    "java.project.sourcePaths": [
-        "src"
-    ],
-    "java.project.outputPath": "bin"
+    "java.import.gradle.enabled": false,
+    "java.import.maven.enabled": false,
+    "java.format.settings.url": "",
+    "java.format.settings.profile": "GoogleStyle"
 }
