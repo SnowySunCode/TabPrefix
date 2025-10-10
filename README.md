@@ -1,5 +1,5 @@
 TabPrefix 
+Copyright (c) 2025 SnowyCode
 
 
 
-Plugin for minecraft. Helps you with elimination LuckPerms prefixes
