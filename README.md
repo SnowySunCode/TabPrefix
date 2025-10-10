@@ -1,2 +1,1 @@
-Plugin for minecraft
-Helps you with elimination LuckPerms prefixes
+Plugin for minecraft. Helps you with elimination LuckPerms prefixes
